@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.reactive.sample.ConnectableFluxTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-12T07:13:05" hostname="DULIP" time="0.143">
+  <properties/>
+  <testcase name="subscribeOnIo()" classname="com.reactive.sample.ConnectableFluxTest" time="0.143"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[boundedElastic-1] INFO reactor.Mono.Callable.1 - | onSubscribe([Fuseable] Operators.MonoSubscriber)
+[boundedElastic-1] INFO reactor.Mono.Callable.1 - | request(unbounded)
+[boundedElastic-1] INFO reactor.Mono.Callable.1 - | onNext([dulip, chandana, lokubalasuriya, is, the, author])
+[boundedElastic-1] INFO com.reactive.sample.ConnectableFluxTest - size 6
+[boundedElastic-1] INFO reactor.Mono.Callable.1 - | onComplete()
+]]></system-err>
+</testsuite>
